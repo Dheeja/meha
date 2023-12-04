@@ -1,0 +1,4 @@
+Pull request is the process of when a code is created or modified in developer branch 
+and it shoud be merged into main branch before merging the code will be checked by main branch holder
+pull request will be act as a notification coz developer team don"t have permission to merge 
+so after raising pull request merging will be done by main branch holder.
